@@ -1,6 +1,7 @@
 Please change the .java file to Main.java except for:
 
 SlotMachine.java
+1.Java
 
 
 
